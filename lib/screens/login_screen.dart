@@ -21,7 +21,7 @@ class _LoginScreenState extends State<LoginScreen> {
               child: Image.asset('images/logo.png'),
             ),
             SizedBox(
-              height: 48.0,
+              height: 48.0, 
             ),
             TextField(
               onChanged: (value) {
