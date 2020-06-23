@@ -18,7 +18,7 @@ class _ChatScreenState extends State<ChatScreen> {
               onPressed: () {
                 //Implement logout functionality
               }),
-        ],
+        ], 
         title: Text('⚡️Chat'),
         backgroundColor: Colors.lightBlueAccent,
       ),
